@@ -1,5 +1,5 @@
 FROM repo.corp.cox.com:5001/alpine-java8:latest
-LABEL maintainer Mayuresh Krishna <mayureshkrishna@gmail.com>
+LABEL maintainer Munander Singh <choudhary.munander.maan@gmail.com>
 EXPOSE 8080
 VOLUME /tmp
 COPY newrelic.yml newrelic.yml

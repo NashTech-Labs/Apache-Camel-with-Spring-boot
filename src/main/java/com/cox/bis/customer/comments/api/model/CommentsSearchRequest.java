@@ -6,7 +6,7 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.Serializable;
 
 /**
- * @author Mayuresh Krishna
+ * @author Munander Singh
  *
  * 
  */
