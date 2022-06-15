@@ -17,7 +17,7 @@ On Windows, if you don't already have GIT Bash installed, download [GIT Bash her
 Clone Code in a working directory using
 
 ```
-$ https://github.com/mayureshkrishna/spring-boot-camel.git
+$ https://github.com/knoldus/apache-camel-java.git
 ```
 
 Once you have cloned the code, you can now run the Spring Boot REST service using
